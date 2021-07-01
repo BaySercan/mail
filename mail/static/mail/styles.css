@@ -1,0 +1,7 @@
+textarea {
+    min-height: 400px;
+}
+
+.emailshort :hover {
+    background-color:lightskyblue;
+}
